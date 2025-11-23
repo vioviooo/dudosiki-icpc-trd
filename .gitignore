@@ -1,2 +1,9 @@
-contents.tex
+contents
 icpc-trd.pdf
+main.pdf
+*.toc
+*.out
+*.log
+*.fls
+*.aux
+*.fdb_latexmk
